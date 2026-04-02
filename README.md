@@ -1,4 +1,4 @@
-# FinTrack — Personal Expense & Budgeting CLI
+#  Integrated Data Analytics Pipeline
 
 > A multi-language command line application for tracking personal expenses, managing budgets, and generating financial reports — built with C++17 and Python 3.
 
